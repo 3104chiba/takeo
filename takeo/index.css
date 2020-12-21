@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.header{
+  background-color: #E6E6FA;
+}
+
+.header li{
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+}
